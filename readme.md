@@ -2,5 +2,5 @@
 ![](./readmeImg/list.gif)
 
 
-#### With ```LottieFiles``` animation in
+#### With ```LottieFiles``` animation in React Native
 ![](./readmeImg/car.gif)
