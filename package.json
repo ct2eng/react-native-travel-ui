@@ -1,0 +1,25 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "^32.0.0",
+    "firebase": "^6.1.1",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-image-crop-picker": "^0.24.1",
+    "react-native-linear-gradient": "^2.5.4",
+    "react-native-really-awesome-button": "^1.4.2",
+    "react-native-textinput-effects": "^0.4.2",
+    "react-native-vector-icons": "^6.4.2",
+    "react-navigation": "^3.8.1"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}
